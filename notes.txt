@@ -1,0 +1,17 @@
+What is python?
+- Python is an interpreted, object-oriented, high-level programming
+language with dynamic semantics. Python syntax are easy compared to other
+languages.
+
+Application of Python are used in:
+-Data Science, Data Analysis, Robotics, Desktop applications, Website and
+Application Development and Game Development.
+
+
+
+
+################################################
+Go to     https://www.programiz.com/python-programming
+and       https://www.geeksforgeeks.org/python-programming-language/
+
+
